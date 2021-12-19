@@ -1,6 +1,6 @@
 # Tableau-Homework
 
-I included the maps of popular start and stop points around NYC as requested. I think the data here is mostly unsurprising, with the most popular starts and stops coinciding with the most popular tourist destinations in the city (Union Station, Central Park, Broadway, etc.)
+I included the maps of popular start and stop points around NYC as requested. I think the data here is mostly unsurprising, with the most popular starts and stops coinciding with the most popular tourist destinations in the city (Union Station, Central Park, Broadway, etc.). I used a datset from summer 2019, sor a couple of reasons. I assumed that summer is the busiest time of year for Citibike, so there would be a wealth of data. Additionally, I wanted to choose a pre-Covid timeframe for the same reason.
 
 Additionally, I included 2 dashboards of information that I found surprising. First, there was a spike in rides per age group in the year 1969. I assume that riders are just selecting the first year the see when they sign up for Citibike instead of selecting their actual birth year, and that would account for the huge spike in rides for that year. Additionally, there was some weird data included for average duration of ride per birth year, with some entries in the 1800's and early 1900's. I would assume users are just picking a random year here as well, instead of selecting their actual birth year.
 
